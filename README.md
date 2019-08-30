@@ -1,10 +1,10 @@
 ##### AI
 ### N-Puzzle Problem & N-blocks Problem
 #### 第一阶段：Searching_student 
- Algorithm:A-star ;Zobrist hashing \n
- 时间：1s \n
- 能解决8数码问题和部分15数码样例 \n
- 滑块问题能解决到10阶(一分钟内）
+ Algorithm:A-star ;Zobrist hashing  
+ 时间：1s  
+ 能解决8数码问题和部分15数码样例  
+ 滑块问题能解决到10阶(一分钟内）  
 
 #### 第二阶段 SearchingAstar
  N-puzzle:IDA-star 反向搜索
