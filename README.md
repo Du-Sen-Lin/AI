@@ -1,4 +1,5 @@
-##### AI
+### AI搜索  
+### Java
 ### N-Puzzle Problem & N-blocks Problem
 #### 第一阶段：Searching_student 
  Algorithm:A-star ;Zobrist hashing  
